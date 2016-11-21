@@ -2,15 +2,15 @@
 
 Based on concept found here: [Circle of Blue](http://janwillemtulp.com/water/)
 
-![](assets/waterScreenShot.jpg)
+![](https://raw.githubusercontent.com/dankronstal/BladeRingChart/master/assets/waterScreenShot.jpg)
 
 D3 prototype available here: [prototype](http://bl.ocks.org/dankronstal/79e85a8428b568fc68e5c7a51998a4cb)
 
-![](assets/prototypeScreenShot.jpg)
+![](https://raw.githubusercontent.com/dankronstal/BladeRingChart/master/assets/prototypeScreenshot.jpg)
 
 The pbiviz file in the dists folder can be downloaded and imported into a PowerBI dashboard to try out. The assets folder also contains the sample data set used for my example, and can be set up to appear as shown below:
 
-![](assets/sampleScreenShot.jpg)
+![](https://raw.githubusercontent.com/dankronstal/BladeRingChart/master/assets/sampleScreenShot.jpg)
 
 *Each arc represents a weight-adjusted data value
 *Each ring represents a categorization

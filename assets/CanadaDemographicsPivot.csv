@@ -1,0 +1,79 @@
+Blade,Ring,Value
+Ontario,Population,12851821
+Ontario,Percentage,0.3839
+Ontario,Land Area,1076395
+Ontario,Density,12.19
+Ontario,Seats,121
+Ontario,People per Seat,106213
+Quebec,Population,7903001
+Quebec,Percentage,0.2361
+Quebec,Land Area,1365128
+Quebec,Density,5.76
+Quebec,Seats,78
+Quebec,People per Seat,101321
+British Columbia,Population,4400057
+British Columbia,Percentage,0.1314
+British Columbia,Land Area,925186
+British Columbia,Density,4.84
+British Columbia,Seats,42
+British Columbia,People per Seat,104763
+Alberta,Population,3645257
+Alberta,Percentage,0.1089
+Alberta,Land Area,642317
+Alberta,Density,5.77
+Alberta,Seats,34
+Alberta,People per Seat,107213
+Manitoba,Population,1208268
+Manitoba,Percentage,0.0361
+Manitoba,Land Area,553556
+Manitoba,Density,2.22
+Manitoba,Seats,14
+Manitoba,People per Seat,86305
+Saskatchewan,Population,1033381
+Saskatchewan,Percentage,0.0309
+Saskatchewan,Land Area,591670
+Saskatchewan,Density,1.75
+Saskatchewan,Seats,14
+Saskatchewan,People per Seat,73813
+Nova Scotia,Population,921727
+Nova Scotia,Percentage,0.0275
+Nova Scotia,Land Area,53338
+Nova Scotia,Density,17.63
+Nova Scotia,Seats,11
+Nova Scotia,People per Seat,83793
+New Brunswick,Population,751171
+New Brunswick,Percentage,0.0224
+New Brunswick,Land Area,71450
+New Brunswick,Density,10.5
+New Brunswick,Seats,10
+New Brunswick,People per Seat,75117
+Newfoundland and Labrador,Population,514536
+Newfoundland and Labrador,Percentage,0.0154
+Newfoundland and Labrador,Land Area,373872
+Newfoundland and Labrador,Density,1.36
+Newfoundland and Labrador,Seats,7
+Newfoundland and Labrador,People per Seat,73505
+Prince Edward Island,Population,140204
+Prince Edward Island,Percentage,0.0042
+Prince Edward Island,Land Area,5660
+Prince Edward Island,Density,24.98
+Prince Edward Island,Seats,4
+Prince Edward Island,People per Seat,35051
+Northwest Territories,Population,41462
+Northwest Territories,Percentage,0.0012
+Northwest Territories,Land Area,1183085
+Northwest Territories,Density,0.04
+Northwest Territories,Seats,1
+Northwest Territories,People per Seat,41462
+Yukon,Population,33897
+Yukon,Percentage,0.001
+Yukon,Land Area,474391
+Yukon,Density,0.07
+Yukon,Seats,1
+Yukon,People per Seat,33897
+Nunavut,Population,31906
+Nunavut,Percentage,0.0009
+Nunavut,Land Area,1936113
+Nunavut,Density,0.02
+Nunavut,Seats,1
+Nunavut,People per Seat,31906
