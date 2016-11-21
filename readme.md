@@ -12,9 +12,9 @@ The pbiviz file in the dists folder can be downloaded and imported into a PowerB
 
 ![](https://raw.githubusercontent.com/dankronstal/BladeRingChart/master/assets/sampleScreenshot.jpg)
 
-*Each arc represents a weight-adjusted data value
-*Each ring represents a categorization
-*Each "blade" (selection of one arc per ring) represents a set/group
-*Click on a Bar Chart item to select a Province in the sample data set, and the Blade/Ring Chart will respond by sorting the rings to present the selected Province blade HERE
+* Each arc represents a weight-adjusted data value
+* Each ring represents a categorization
+* Each "blade" (selection of one arc per ring) represents a set/group
+* Click on a Bar Chart item to select a Province in the sample data set, and the Blade/Ring Chart will respond by sorting the rings to present the selected Province blade HERE
 
 Feel free to contact me at dkronstal@hitachi-solutions.com if you have any questions.
