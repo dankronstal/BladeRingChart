@@ -1,0 +1,67 @@
+{
+    "dataRoles": [
+        {
+            "displayName": "Blade",
+            "name": "category",
+            "kind": 0
+        },
+        {
+            "displayName": "Ring",
+            "name": "series",
+            "kind": 0
+        },
+        {
+            "displayName": "Value",
+            "name": "measure",
+            "kind": 1
+        }
+    ],
+    "dataViewMappings": [
+        {
+            "categorical": {
+                "categories": {
+                    "for": {
+                        "in": "category"
+                    }
+                },
+                "values": {
+                    "group": {
+                        "by": "series",
+                        "select": [{
+                                "for": {
+                                    "in": "measure"
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "objects": {
+        "enableAxis": {
+            "displayName": "Enable Axis",
+            "properties": {
+                "show": {
+                    "displayName": "Enable Axis",
+                    "type": { "bool": true }
+                }
+            }
+        },
+        "colorSelector": {
+            "displayName": "Data Colors",
+            "properties": {
+                "fill": {
+                    "displayName": "Color",
+                    "type": {
+                        "fill": {
+                            "solid": {
+                                "color": true
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
