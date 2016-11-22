@@ -24,7 +24,7 @@
  *  THE SOFTWARE.
  */
 
-module powerbi.extensibility.visual {
+module powerbi.extensibility.visual.PBI_CV_820a1803_8e00_4869_b083_b47eeec8aff2  {
     
     /**
      * Interface for bladeRingCharts viewmodel.
