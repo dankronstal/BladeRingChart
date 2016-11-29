@@ -17,4 +17,6 @@ The pbiviz file in the dists folder can be downloaded and imported into a PowerB
 * Each "blade" (selection of one arc per ring) represents a set/group
 * Click on a Bar Chart item to select a Province in the sample data set, and the Blade/Ring Chart will respond by sorting the rings to present the selected Province blade
 
+Live demo [here](http://dankronstal.azurewebsites.net/bladeRingChart/)
+
 Feel free to contact me at dkronstal@hitachi-solutions.com if you have any questions.
